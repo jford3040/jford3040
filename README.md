@@ -1,18 +1,18 @@
 ## Hi, I'm Jack 😃
 
 ### 📊 Data Analyst | Insights & Modeling
-I use data to answer questions and solve problems. My work focuses on building analytical models and automated pipelines to drive decision making and improve efficiency.
+I build analytical models and data workflows that turn raw data into clear insights. My work focuses on structured analysis, statistical modeling, and decision-focused dashboards.
 
 ---
 
 ### 🛠️ Technical Stack
 - **Languages:** SQL (PostgreSQL, BigQuery), Python (Pandas, NumPy, Scikit-learn)
 - **Tools:** Advanced Excel (Modeling, VBA), Tableau, Power BI
-- **Methods:** Complex Data Modeling, Regression Analysis, A/B Testing
+- **Methods:** Statistical Modeling, Regression Analysis, A/B Testing
 
 ### 🚀 Key Projects
-- **[SQL Data Job Analysis Project](https://github.com/jford3040/SQL_Project_Data_Job_Analysis):** SQL-driven analysis exploring different aspects of the data analyst job market.
-- **[Excel QB Comparison Project](https://github.com/jford3040/Excel_Project_QB_Analysis_Model):** A multi-pillar Excel engine using z-scores to neutralize era-inflation.
+- **[Data Job Market Analysis (SQL)](https://github.com/jford3040/SQL_Project_Data_Job_Analysis):** Exploratory SQL analysis of the data analyst job market, examining demand trends, skills, and salary patterns.
+- **[NFL Quarterback GOAT Model (Excel)](https://github.com/jford3040/Excel_Project_QB_Analysis_Model):** A multi-model analytical framework using era-adjustment and z-score normalization to compare quarterbacks across different statistical eras.
 
 ### 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/jackwford/)
 
