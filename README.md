@@ -1,4 +1,4 @@
-## Hi, I'm Jack 👋
+## Hi, I'm Jack 😃
 
 ### 📊 Data Analyst | Insights & Modeling
 I use data to answer questions and solve problems. My work focuses on building analytical models and automated pipelines to drive decision making and improve efficiency.
