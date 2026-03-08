@@ -14,7 +14,7 @@ I use data to answer questions and solve problems. My work focuses on building a
 - **[SQL Data Job Analysis Project](https://github.com/jford3040/SQL_Project_Data_Job_Analysis):** SQL-driven analysis exploring different aspects of the data analyst job market.
 - **[Excel QB Comparison Project](https://github.com/jford3040/Excel_Project_QB_Analysis_Model):** A multi-pillar Excel engine using z-scores to neutralize era-inflation.
 
-📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/jackwford/)
+### 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/jackwford/)
 
 
 <!--
